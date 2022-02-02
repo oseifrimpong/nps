@@ -16,7 +16,7 @@
 	<properties>
 		<java.version>16</java.version>
 		<swagger2.version>2.9.2</swagger2.version>
-		<postgres.version>42.2.12</postgres.version>
+		<postgres.version>42.2.25</postgres.version>
 		<spring-native.version>0.10.0-SNAPSHOT</spring-native.version>
 	</properties>
 	<dependencies>
