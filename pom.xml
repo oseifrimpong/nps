@@ -15,7 +15,7 @@
 	<description>Project for calculating the net promoter score. </description>
 	<properties>
 		<java.version>16</java.version>
-		<swagger2.version>2.9.2</swagger2.version>
+		<swagger2.version>2.10.0</swagger2.version>
 		<postgres.version>42.2.12</postgres.version>
 		<spring-native.version>0.10.0-SNAPSHOT</spring-native.version>
 	</properties>
